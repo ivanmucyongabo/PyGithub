@@ -105,11 +105,11 @@ if __name__ == "__main__":
         ],
         python_requires=">=3.6",
         install_requires=[
-            "deprecated",
-            "pyjwt>=2.0",
-            "pynacl>=1.4.0",
-            "requests>=2.14.0",
+            "pynacl==1.4.0",
+            "requests==2.14.0",
+            "pyjwt==2.0",
+            "deprecated==1.2.13"            
         ],
-        extras_require={"integrations": ["cryptography"]},
-        tests_require=["cryptography", "httpretty>=1.0.3"],
+        extras_require={"integrations": ["cryptography==38.0.1"]},
+        tests_require=["cryptography==38.0.1", "httpretty==1.1.4"],
     )

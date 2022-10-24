@@ -1,6 +1,6 @@
 # PyGitHub
 
-## PyGithub but with frozen requirements
+## PyGithub with pinned packages for enviroments that require them.
 
 [![PyPI](https://img.shields.io/pypi/v/PyGithub.svg)](https://pypi.python.org/pypi/PyGithub)
 ![CI](https://github.com/PyGithub/PyGithub/workflows/CI/badge.svg)

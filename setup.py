@@ -49,7 +49,7 @@ version = "1.56"
 
 if __name__ == "__main__":
     setuptools.setup(
-        name="PyGithub",
+        name="PyGithubF",
         version=version,
         description="Use the full Github API v3",
         author="Vincent Jacques",

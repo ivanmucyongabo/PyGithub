@@ -1,5 +1,7 @@
 # PyGitHub
 
+## PyGithub but with frozen requirements
+
 [![PyPI](https://img.shields.io/pypi/v/PyGithub.svg)](https://pypi.python.org/pypi/PyGithub)
 ![CI](https://github.com/PyGithub/PyGithub/workflows/CI/badge.svg)
 [![readthedocs](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://pygithub.readthedocs.io/en/latest/?badge=latest)

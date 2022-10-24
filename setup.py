@@ -52,13 +52,13 @@ if __name__ == "__main__":
         name="PyGithubF",
         version=version,
         description="Use the full Github API v3",
-        author="Vincent Jacques",
-        author_email="vincent@vincent-jacques.net",
+        author="Ivan Mucyo Ngabo",
+        author_email="ivanmucyongabo@outlook.com",
         url="https://github.com/pygithub/pygithub",
         project_urls={
             "Documentation": "http://pygithub.readthedocs.io/en/latest/",
-            "Source": "https://github.com/pygithub/pygithub",
-            "Tracker": "https://github.com/pygithub/pygithub/issues",
+            "Source": "https://github.com/ivanmucyongabo/PyGithubF",
+            "Tracker": "https://github.com/ivanmucyongabo/PyGithubF/issues",
         },
         long_description=textwrap.dedent(
             """\
